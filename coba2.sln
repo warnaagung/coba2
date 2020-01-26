@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coba1", "coba1\coba1.csproj", "{758D0C42-9DB4-4294-A887-50C3CC5E7D25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coba2", "coba1\coba2.csproj", "{758D0C42-9DB4-4294-A887-50C3CC5E7D25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
